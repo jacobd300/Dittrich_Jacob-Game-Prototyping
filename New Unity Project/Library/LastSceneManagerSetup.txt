@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Single Input Save.unity
+- path: Assets/Single Input Game.unity
   isLoaded: 1
   isActive: 1

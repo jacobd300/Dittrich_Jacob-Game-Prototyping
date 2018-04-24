@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Single Input Save.unity
+  isLoaded: 1
+  isActive: 1

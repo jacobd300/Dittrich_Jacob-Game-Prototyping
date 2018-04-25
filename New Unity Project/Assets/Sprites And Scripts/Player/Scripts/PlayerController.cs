@@ -30,8 +30,10 @@ public class PlayerController : MonoBehaviour {
             }
             else
             {
-                spriteRenderer.color = Colors[CurrentColor];
+                spriteRenderer.color = Colors[0];
                 CurrentColor = 1;
+
+
             }
 
 

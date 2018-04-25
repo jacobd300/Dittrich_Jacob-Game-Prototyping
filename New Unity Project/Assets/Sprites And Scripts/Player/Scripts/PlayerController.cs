@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
 
+
+
     public Color[] Colors;
     public int CurrentColor;
 
@@ -24,11 +26,12 @@ public class PlayerController : MonoBehaviour {
             {
                 spriteRenderer.color = Colors[CurrentColor];
                 CurrentColor = CurrentColor + 1;
+
             }
             else
             {
-                CurrentColor = 0;
                 spriteRenderer.color = Colors[CurrentColor];
+                CurrentColor = 1;
             }
 
 

@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{BFD958C4-5209-89E8-D1A0-F25854A4DC74}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Sprites And Scripts/Walls/Spawner.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Sprites And Scripts/Walls/Scripts/Wall.cs">
     <Files>
       <File FileName="Assets/Sprites And Scripts/Player/Scripts/PlayerController.cs" Line="34" Column="31" />
-      <File FileName="Assets/Sprites And Scripts/Walls/Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Sprites And Scripts/Walls/Scripts/Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Sprites And Scripts/Walls/Scripts/Wall.cs" Line="32" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

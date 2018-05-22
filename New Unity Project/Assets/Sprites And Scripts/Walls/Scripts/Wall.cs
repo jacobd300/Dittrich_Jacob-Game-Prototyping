@@ -7,9 +7,13 @@ public class Wall : MonoBehaviour
 
     public Vector3 MoveSpeed;
 
+    public List<Color> ColorsToPickFrom = new List<Color>();
+
     // Use this for initialization
     void Start()
     {
+
+        GetComponent<SpriteRenderer>().color = ColorsToPickFrom[Random.Range(0, ColorsToPickFrom.Count)];
 
     }
 

@@ -1,6 +1,10 @@
 sceneSetups:
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Game 1/Single Input Game.unity
+=======
+- path: Assets/Single Input Game.unity
+>>>>>>> parent of 5275b55... Game 2 First Commit
 =======
 - path: Assets/Single Input Game.unity
 >>>>>>> parent of 5275b55... Game 2 First Commit

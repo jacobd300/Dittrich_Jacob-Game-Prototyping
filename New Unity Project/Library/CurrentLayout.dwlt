@@ -30,6 +30,34 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
+<<<<<<< HEAD
+=======
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 592
+    y: 0
+    width: 389
+    height: 373
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 18}
+  m_Panes:
+  - {fileID: 18}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+>>>>>>> parent of 6c5e0a9... Big Commit before Starting Game 2
   m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -45,8 +73,13 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 49
 --- !u!114 &3
+=======
+  controlID: 25
+--- !u!114 &4
+>>>>>>> parent of 6c5e0a9... Big Commit before Starting Game 2
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -62,8 +95,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1148
     y: 0
+<<<<<<< HEAD
     width: 292
     height: 726
+=======
+    width: 402
+    height: 725
+>>>>>>> parent of 6c5e0a9... Big Commit before Starting Game 2
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
@@ -87,8 +125,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 274
     height: 439
+=======
+    width: 294
+    height: 373
+>>>>>>> parent of 6c5e0a9... Big Commit before Starting Game 2
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
@@ -210,8 +253,13 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 50
 --- !u!114 &10
+=======
+  controlID: 26
+--- !u!114 &11
+>>>>>>> parent of 6c5e0a9... Big Commit before Starting Game 2
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -234,8 +282,13 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 51
 --- !u!114 &11
+=======
+  controlID: 27
+--- !u!114 &12
+>>>>>>> parent of 6c5e0a9... Big Commit before Starting Game 2
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -251,8 +304,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 274
     y: 0
+<<<<<<< HEAD
     width: 874
     height: 439
+=======
+    width: 298
+    height: 373
+>>>>>>> parent of 6c5e0a9... Big Commit before Starting Game 2
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 17}
@@ -363,10 +421,17 @@ MonoBehaviour:
   m_LastProjectPath: /Users/jaked/Documents/GitHub/Game-Prototyping/New Unity Project
   m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 31}
     m_SelectedIDs: ae2c0000
     m_LastClickedID: 11438
     m_ExpandedIDs: 0000000046270000842700008a270000b2270000b8280000d2280000e62800001e290000282a0000ffffff7f
+=======
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: da270000
+    m_LastClickedID: 10202
+    m_ExpandedIDs: 000000000a2700004a2700005027000078270000ffffff7f
+>>>>>>> parent of 6c5e0a9... Big Commit before Starting Game 2
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -394,7 +459,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000046270000842700008a270000b2270000
+=======
+    m_ExpandedIDs: 000000000a2700004a2700005027000078270000
+>>>>>>> parent of 6c5e0a9... Big Commit before Starting Game 2
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -510,9 +579,15 @@ MonoBehaviour:
     height: 418
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: ae2c0000
     m_LastClickedID: 0
     m_ExpandedIDs: d093faff7895faff501cfcff6ce0fdff76e0fdff38e6fdff78f3ffff72f4ffffb6f5fffff0faffff000000000c2a0000c42a0000
+=======
+    m_SelectedIDs: 94270000
+    m_LastClickedID: 10132
+    m_ExpandedIDs: a6fbffff00000000
+>>>>>>> parent of 6c5e0a9... Big Commit before Starting Game 2
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -567,9 +642,15 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: -0.016222328, y: -2.872881, z: 10.038855}
     speed: 2
     m_Value: {x: -0.016222328, y: -2.872881, z: 10.038855}
+=======
+    m_Target: {x: 8.74, y: -0.03000021, z: 0}
+    speed: 2
+    m_Value: {x: 8.74, y: -0.03000021, z: 0}
+>>>>>>> parent of 6c5e0a9... Big Commit before Starting Game 2
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -596,9 +677,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
     m_Target: 22
     speed: 2
     m_Value: 22
+=======
+    m_Target: 16.371414
+    speed: 2
+    m_Value: 16.371414
+>>>>>>> parent of 6c5e0a9... Big Commit before Starting Game 2
   m_Ortho:
     m_Target: 1
     speed: 2

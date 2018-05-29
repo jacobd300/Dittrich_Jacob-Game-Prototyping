@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Game 2/Gravity.unity
+- path: Assets/Scenes/Game 1/Single Input Game.unity
   isLoaded: 1
   isActive: 1

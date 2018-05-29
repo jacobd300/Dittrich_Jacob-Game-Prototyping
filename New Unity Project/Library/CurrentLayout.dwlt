@@ -14,6 +14,7 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 44
     width: 1440
@@ -26,12 +27,21 @@ MonoBehaviour:
     x: 57
     y: 50
     width: 1691
+=======
+    x: 57
+    y: 50
+    width: 1314
+>>>>>>> parent of 27a938b... Final Commit for Project 1
     height: 990
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 8}
+<<<<<<< HEAD
   m_MinSize: {x: 950, y: 542}
 >>>>>>> parent of cef809b... Added Text
+=======
+  m_MinSize: {x: 950, y: 300}
+>>>>>>> parent of 27a938b... Final Commit for Project 1
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -49,9 +59,15 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 200
     y: 0
     width: 607
+=======
+    x: 202
+    y: 0
+    width: 387
+>>>>>>> parent of 27a938b... Final Commit for Project 1
     height: 484
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
@@ -75,12 +91,21 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 807
     y: 0
     width: 607
     height: 484
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
+=======
+    x: 589
+    y: 0
+    width: 448
+    height: 484
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+>>>>>>> parent of 27a938b... Final Commit for Project 1
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -106,6 +131,7 @@ MonoBehaviour:
     x: 0
     y: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1440
     height: 729
   m_MinSize: {x: 683, y: 492}
@@ -120,6 +146,14 @@ MonoBehaviour:
   m_MaxSize: {x: 16006, y: 14042}
   vertical: 0
   controlID: 643
+=======
+    width: 1314
+    height: 940
+  m_MinSize: {x: 887, y: 492}
+  m_MaxSize: {x: 16012, y: 14042}
+  vertical: 0
+  controlID: 9
+>>>>>>> parent of 27a938b... Final Commit for Project 1
 --- !u!114 &5
 >>>>>>> parent of cef809b... Added Text
 MonoBehaviour:
@@ -136,6 +170,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1148
     y: 0
     width: 292
@@ -150,6 +185,14 @@ MonoBehaviour:
     height: 940
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
+=======
+    x: 1037
+    y: 0
+    width: 277
+    height: 940
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> parent of 27a938b... Final Commit for Project 1
   m_ActualView: {fileID: 15}
 >>>>>>> parent of cef809b... Added Text
   m_Panes:
@@ -173,6 +216,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 284
     height: 441
   m_MinSize: {x: 202, y: 221}
@@ -180,6 +224,9 @@ MonoBehaviour:
   m_ActualView: {fileID: 15}
 =======
     width: 200
+=======
+    width: 202
+>>>>>>> parent of 27a938b... Final Commit for Project 1
     height: 484
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
@@ -205,6 +252,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 441
     width: 1148
     height: 288
@@ -213,6 +261,11 @@ MonoBehaviour:
     width: 1414
     height: 456
 >>>>>>> parent of cef809b... Added Text
+=======
+    y: 484
+    width: 1037
+    height: 456
+>>>>>>> parent of 27a938b... Final Commit for Project 1
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 13}
@@ -241,12 +294,17 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1440
     height: 779
 =======
     width: 1691
     height: 990
 >>>>>>> parent of cef809b... Added Text
+=======
+    width: 1314
+    height: 990
+>>>>>>> parent of 27a938b... Final Commit for Project 1
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
@@ -266,10 +324,14 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1440
 =======
     width: 1691
 >>>>>>> parent of cef809b... Added Text
+=======
+    width: 1314
+>>>>>>> parent of 27a938b... Final Commit for Project 1
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -290,12 +352,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 759
     width: 1440
 =======
     y: 970
     width: 1691
 >>>>>>> parent of cef809b... Added Text
+=======
+    y: 970
+    width: 1314
+>>>>>>> parent of 27a938b... Final Commit for Project 1
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -318,6 +385,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1148
     height: 729
   m_MinSize: {x: 406, y: 492}
@@ -332,6 +400,14 @@ MonoBehaviour:
   m_MaxSize: {x: 12004, y: 14042}
   vertical: 1
   controlID: 644
+=======
+    width: 1037
+    height: 940
+  m_MinSize: {x: 610, y: 492}
+  m_MaxSize: {x: 12010, y: 14042}
+  vertical: 1
+  controlID: 10
+>>>>>>> parent of 27a938b... Final Commit for Project 1
 --- !u!114 &12
 >>>>>>> parent of cef809b... Added Text
 MonoBehaviour:
@@ -351,6 +427,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
     width: 1148
     height: 441
@@ -393,6 +470,14 @@ MonoBehaviour:
   m_MaxSize: {x: 12004, y: 4021}
   vertical: 0
   controlID: 645
+=======
+    width: 1037
+    height: 484
+  m_MinSize: {x: 610, y: 221}
+  m_MaxSize: {x: 12010, y: 4021}
+  vertical: 0
+  controlID: 11
+>>>>>>> parent of 27a938b... Final Commit for Project 1
 --- !u!114 &13
 >>>>>>> parent of cef809b... Added Text
 MonoBehaviour:
@@ -443,6 +528,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 535
     width: 1146
@@ -453,6 +539,12 @@ MonoBehaviour:
     width: 1412
     height: 435
 >>>>>>> parent of cef809b... Added Text
+=======
+    x: 57
+    y: 583
+    width: 1035
+    height: 435
+>>>>>>> parent of 27a938b... Final Commit for Project 1
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -466,6 +558,7 @@ MonoBehaviour:
     m_SearchArea: 0
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/Scenes/Game 1
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -478,11 +571,19 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Sprites And Scripts/Walls
 >>>>>>> parent of cef809b... Added Text
+=======
+    - Assets/Sprites And Scripts/Walls/Scripts
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Sprites And Scripts/Walls/Scripts
+>>>>>>> parent of 27a938b... Final Commit for Project 1
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/jaked/Documents/GitHub/Game-Prototyping/New Unity Project
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedIDs: 88270000
     m_LastClickedID: 10120
@@ -492,6 +593,11 @@ MonoBehaviour:
     m_LastClickedID: 10162
     m_ExpandedIDs: 000000006a270000ac270000b2270000d827000000ca9a3bffffff7f
 >>>>>>> parent of cef809b... Added Text
+=======
+    m_SelectedIDs: 22270000
+    m_LastClickedID: 10018
+    m_ExpandedIDs: 000000000c2700004e270000542700007c27000000ca9a3bffffff7f
+>>>>>>> parent of 27a938b... Final Commit for Project 1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -520,10 +626,14 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 000000004a270000582700005a2700006627000074270000a2270000a8270000d4270000e0270000
 =======
     m_ExpandedIDs: 000000006a270000ac270000b2270000d8270000
 >>>>>>> parent of cef809b... Added Text
+=======
+    m_ExpandedIDs: 000000000c2700004e270000542700007c270000
+>>>>>>> parent of 27a938b... Final Commit for Project 1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -551,7 +661,11 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
+<<<<<<< HEAD
     m_ExpandedInstanceIDs: c6230000
+=======
+    m_ExpandedInstanceIDs: c62300009e270000
+>>>>>>> parent of 27a938b... Final Commit for Project 1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -601,6 +715,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1150
     y: 94
     width: 290
@@ -611,6 +726,12 @@ MonoBehaviour:
     width: 275
     height: 919
 >>>>>>> parent of cef809b... Added Text
+=======
+    x: 1096
+    y: 99
+    width: 275
+    height: 919
+>>>>>>> parent of 27a938b... Final Commit for Project 1
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
@@ -641,6 +762,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 94
     width: 282
@@ -660,6 +782,17 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 8c0bffffc8faffff00000000
 >>>>>>> parent of cef809b... Added Text
+=======
+    x: 57
+    y: 99
+    width: 200
+    height: 463
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 0469ffffa6fbffff00000000
+>>>>>>> parent of 27a938b... Final Commit for Project 1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -705,6 +838,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 286
     y: 94
     width: 860
@@ -715,12 +849,19 @@ MonoBehaviour:
     width: 603
     height: 463
 >>>>>>> parent of cef809b... Added Text
+=======
+    x: 261
+    y: 99
+    width: 383
+    height: 463
+>>>>>>> parent of 27a938b... Final Commit for Project 1
   m_SceneLighting: 1
   lastFramingTime: 0
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
@@ -730,6 +871,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.93071324, y: -0.29818222, z: -9.90625}
 >>>>>>> parent of cef809b... Added Text
+=======
+    m_Target: {x: 0.42285183, y: -2.2494917, z: -9.9453125}
+    speed: 2
+    m_Value: {x: 0.42285183, y: -2.2494917, z: -9.9453125}
+>>>>>>> parent of 27a938b... Final Commit for Project 1
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -757,6 +903,7 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 10
     speed: 2
     m_Value: 10
@@ -765,6 +912,11 @@ MonoBehaviour:
     speed: 2
     m_Value: 12.635221
 >>>>>>> parent of cef809b... Added Text
+=======
+    m_Target: 16.083723
+    speed: 2
+    m_Value: 16.083723
+>>>>>>> parent of 27a938b... Final Commit for Project 1
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -799,6 +951,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 2
     y: 19
     width: 860
@@ -809,6 +962,12 @@ MonoBehaviour:
     width: 603
     height: 463
 >>>>>>> parent of cef809b... Added Text
+=======
+    x: 648
+    y: 99
+    width: 444
+    height: 463
+>>>>>>> parent of 27a938b... Final Commit for Project 1
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
@@ -817,6 +976,7 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_HBaseRangeMin: -215
     m_HBaseRangeMax: 215
@@ -828,6 +988,12 @@ MonoBehaviour:
     m_VBaseRangeMin: -169.59375
     m_VBaseRangeMax: 169.59375
 >>>>>>> parent of cef809b... Added Text
+=======
+    m_HBaseRangeMin: -222
+    m_HBaseRangeMax: 222
+    m_VBaseRangeMin: -124.875
+    m_VBaseRangeMax: 124.875
+>>>>>>> parent of 27a938b... Final Commit for Project 1
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -845,6 +1011,7 @@ MonoBehaviour:
       x: 0
       y: 17
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 860
       height: 403
     m_Scale: {x: 2, y: 2}
@@ -855,12 +1022,19 @@ MonoBehaviour:
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 301.5, y: 223}
 >>>>>>> parent of cef809b... Added Text
+=======
+      width: 444
+      height: 446
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 222, y: 223}
+>>>>>>> parent of 27a938b... Final Commit for Project 1
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
       x: -215
       y: -100.75
@@ -872,15 +1046,25 @@ MonoBehaviour:
       width: 603
       height: 446
 >>>>>>> parent of cef809b... Added Text
+=======
+      x: -222
+      y: -223
+      width: 444
+      height: 446
+>>>>>>> parent of 27a938b... Final Commit for Project 1
     m_MinimalGUI: 1
   m_defaultScale: 2
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 1720, y: 840}
 =======
   m_LastWindowPixelSize: {x: 603, y: 463}
 >>>>>>> parent of cef809b... Added Text
+=======
+  m_LastWindowPixelSize: {x: 444, y: 463}
+>>>>>>> parent of 27a938b... Final Commit for Project 1
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100

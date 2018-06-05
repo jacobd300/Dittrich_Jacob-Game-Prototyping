@@ -221,8 +221,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59b21325a83ff324885790be516aab5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Colors: []
-  CurrentColor: 0
+  Colors:
+  - {r: 1, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  CurrentColor: 1
 --- !u!114 &571191823
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -303,7 +305,7 @@ GameObject:
   - component: {fileID: 2134288920}
   - component: {fileID: 2134288919}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Spawner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

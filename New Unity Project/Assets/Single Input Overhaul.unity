@@ -201,7 +201,6 @@ GameObject:
   m_Component:
   - component: {fileID: 571191825}
   - component: {fileID: 571191824}
-  - component: {fileID: 571191823}
   - component: {fileID: 571191822}
   m_Layer: 0
   m_Name: PlayerSprite
@@ -222,22 +221,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Colors:
-  - {r: 1, g: 0, b: 0, a: 0}
-  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 0, g: 0, b: 0, a: 1}
   CurrentColor: 1
---- !u!114 &571191823
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 571191821}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 59b21325a83ff324885790be516aab5a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Colors: []
-  CurrentColor: 0
 --- !u!212 &571191824
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -323,6 +309,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   WallPrefab: {fileID: 1753932376403906, guid: 048b17f8f4a516a45a6ed9e1127f50c0, type: 2}
+  Colors:
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 0, g: 0, b: 0, a: 1}
 --- !u!4 &2134288920
 Transform:
   m_ObjectHideFlags: 0

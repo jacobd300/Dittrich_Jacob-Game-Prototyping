@@ -6,6 +6,7 @@ public class Spawner : MonoBehaviour
 {
 
     public GameObject WallPrefab;
+    public Color[] Colors;
 
 
     // Use this for initialization
@@ -25,7 +26,10 @@ public class Spawner : MonoBehaviour
 
     IEnumerator SpawnWall()
     {
-        Instantiate(WallPrefab, transform.position, Quaternion.identity);
+        GameObject _newWall = Instantiate(WallPrefab, transform.position, Quaternion.identity);
+        SpriteRenderer _spriteRenderer = _newWall.GetComponent<SpriteRenderer>();
+        _spriteRenderer.color = Colors[Random.Range(0, Colors.Length)];
+
 
         yield return new WaitForSeconds(1);
 
